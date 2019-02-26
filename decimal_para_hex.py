@@ -1,4 +1,7 @@
 
+# Exercício para converter número de base 10 para base 16
+# Requisitos: não usar looping, três dígitos apenas
+
 numero = int(input("Insira um número em decimal: "))
 base = 16
 
